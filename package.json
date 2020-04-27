@@ -21,7 +21,7 @@
     "next-i18next": "^4.0.0",
     "react": "16.13.0",
     "react-dom": "16.13.0",
-    "react-i18next": "^11.2.5"
+    "react-i18next": "^11.4.0"
   },
   "devDependencies": {
     "@types/node": "^13.1.7",
